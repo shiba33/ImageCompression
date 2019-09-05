@@ -1,2 +1,2 @@
 # ImageCompression
-WordPress Plugin: jpeg,png形式の画像ファイルを減らす
+WordPress Plugin: jpeg,png形式の画像サイズを減らす
